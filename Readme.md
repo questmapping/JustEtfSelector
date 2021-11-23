@@ -19,7 +19,7 @@ distributing_list = "urlTo/distributing.txt"
 datadump = "urlTo/full_etfs.json"
 ```
 
-In locale, questa parte va inserita nel file secrets.toml (ovviamente da inserire in .gitignore) come indicato da https://www.notion.so/Secrets-Management-730c82af2fc048d383d668c4049fb9bf
+In locale, questa parte va inserita nel file secrets.toml (ovviamente da inserire in .gitignore dopo averlo creato) come indicato da https://www.notion.so/Secrets-Management-730c82af2fc048d383d668c4049fb9bf
 
 # Primca cosa da fare
 E' il dump dei dati aggiornati con python datadump.py
